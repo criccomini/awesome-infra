@@ -41,6 +41,7 @@ A collection of awesome software infrastructure projects and companies.
 ## Graph Databases
 *Graph databases.*
 
+* [ArangoDB](https://arangodb.com/) - Graph database that also works as a multimodal database supporting documents.
 * [Dgraph](https://dgraph.io/) - Dgraph is an open source, low latency, high throughput, native and distributed graph database.
 * [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
 * [Neo4j](https://neo4j.com/) - Neo4j is a native graph database, built from the ground up to leverage not only data but also data relationships.
