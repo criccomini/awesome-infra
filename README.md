@@ -62,6 +62,7 @@ A collection of awesome software infrastructure projects and companies.
 ## OLAP Databases
 *Online analytical processing databases.*
 
+* [Clickhouse](https://clickhouse.com/) - ClickHouse is a column-oriented database that enables its users to generate powerful analytics, using SQL queries, in real-time.
 * [Materialize](https://materialize.com/) - Materialize is a data warehouse purpose-built for operational workloads where an analytical data warehouse would be too slow, and a stream processor would be too complicated.
 * [Pinot](https://pinot.apache.org/) - Apache Pinot is a distributed OLAP datastore, designed to answer OLAP queries with low latency.
 
