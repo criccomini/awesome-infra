@@ -49,7 +49,7 @@ A collection of awesome software infrastructure projects and companies.
 ## Key-Value Stores
 *Key-value stores.*
 
-* [Venice][https://venicedb.org/) - Venice is a derived data platform providing high throughput ingestion from batch, streams, and lambda/kappa architectures, and low latency online reads, for ML feature storage, etc.
+* [Venice](https://venicedb.org/) - Venice is a derived data platform providing high throughput ingestion from batch, streams, and lambda/kappa architectures, and low latency online reads, for ML feature storage, etc.
 
 ## OLTP Databases
 *Online transaction processing databases.*
