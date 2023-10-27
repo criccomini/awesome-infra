@@ -42,6 +42,7 @@ A collection of awesome software infrastructure projects and companies.
 *Graph databases.*
 
 * [Dgraph](https://dgraph.io/) - Dgraph is an open source, low latency, high throughput, native and distributed graph database.
+* [Kuzu](https://github.com/kuzudb/kuzu) - Embeddable property graph database management system built for query speed and scalability. Implements Cypher.
 * [Neo4j](https://neo4j.com/) - Neo4j is a native graph database, built from the ground up to leverage not only data but also data relationships.
 * [TigerGraph](https://www.tigergraph.com/) - TigerGraph is a native parallel graph database platform for enterprise applications.
 * [Neptune](https://aws.amazon.com/neptune/) - Amazon Neptune is a fast, reliable, fully managed graph database service that makes it easy to build and run applications that work with highly connected datasets.
