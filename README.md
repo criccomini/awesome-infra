@@ -94,6 +94,7 @@ A collection of awesome software infrastructure projects and companies.
 * [Knative](https://knative.dev/) - Kubernetes-based platform to build, deploy, and manage modern serverless workloads.
 * [Fission](https://fission.io/) - Fission is a framework for serverless functions on Kubernetes. It allows you to easily create HTTP services on Kubernetes from functions.
 * [OpenLambda](https://github.com/open-lambda/open-lambda) - OpenLambda is an Apache-licensed serverless computing project, written (mostly) in Go and based on Linux containers.
+* [Wasmer Edge](https://wasmer.io/products/edge) - Wasmer Edge allows running cloud apps easily at the Edge, scaling them like they are serverless.
 
 ## Workflow
 *Workflow.*
