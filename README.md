@@ -41,6 +41,7 @@ A collection of awesome software infrastructure projects and companies.
 ## Graph Databases
 *Graph databases.*
 
+* [ArangoDB](https://arangodb.com/) - Graph database that also works as a multimodal database supporting documents.
 * [Dgraph](https://dgraph.io/) - Dgraph is an open source, low latency, high throughput, native and distributed graph database.
 * [Neo4j](https://neo4j.com/) - Neo4j is a native graph database, built from the ground up to leverage not only data but also data relationships.
 * [TigerGraph](https://www.tigergraph.com/) - TigerGraph is a native parallel graph database platform for enterprise applications.
