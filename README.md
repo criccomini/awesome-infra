@@ -73,6 +73,8 @@ A collection of awesome software infrastructure projects and companies.
 ## Data Lakes
 *Data lakes.*
 
+* [Bauplan](https://www.bauplanlabs.com/) - A serverless lakehouse for complex data workloads.
+
 ## Durable Execution
 *Durable execution systems.*
 
