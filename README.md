@@ -108,6 +108,7 @@ A collection of awesome software infrastructure projects and companies.
 
 * [Airflow](https://airflow.apache.org/) - Airflow is a platform to programmatically author, schedule and monitor workflows.
 * [Flyte](https://flyte.org/) - Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.
+* [Kestra](https://kestra.io) - Scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code.
 * [Prefect](https://prefect.io) - Prefect is a workflow management system, designed for modern infrastructure and powered by the open-source Prefect Core workflow engine.
 * [Dagster](https://dagster.io/) - Dagster is a data orchestrator for machine learning, analytics, and ETL.
 
