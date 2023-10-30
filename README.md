@@ -23,7 +23,6 @@ A collection of awesome software infrastructure projects and companies.
   * Streaming
     * [Message Brokers](#message-brokers)
     * [Stream Processing](#stream-processing)
-    * [Stream Storage](#stream-storage)
 * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
 * [License](#license)
@@ -128,6 +127,7 @@ A collection of awesome software infrastructure projects and companies.
 ## Message Brokers
 *Message brokers.*
 
+* [Pravega](https://cncf.pravega.io/) - Pravega is a distributed, tiered storage system for data streams. Pravega streams are durable, unbounded, cost-effective, and elastic: an ideal storage substrate for stream processing pipelines.
 * [WarpStream](https://warpstream.com) - WarpStream is a Kafka compatible data streaming platform built directly on top of S3.
 
 ## Stream Processing
@@ -138,11 +138,6 @@ A collection of awesome software infrastructure projects and companies.
 * [Kafka Streams](https://kafka.apache.org/documentation/streams/) - A stateful stream processing library for Kafka.
 * [Responsive](https://responsive.dev) - Responsive is the platform for developers building stateful reactive applications on the modern cloud. Focused on Kafka streams.
 * [RisingWave](https://risingwave.com/) - RisingWave is a distributed SQL database for stream processing. It consumes streaming data, performs incremental computations when new data comes in, and updates results dynamically. As a database system, RisingWave maintains results in its own storage so that users can access data efficiently.
-
-## Stream Storage
-*Stream storage.*
-
-* [Pravega](https://cncf.pravega.io/) - Pravega is a distributed, tiered storage system for data streams. Pravega streams are durable, unbounded, cost-effective, and elastic: an ideal storage substrate for stream processing pipelines.
 
 # Miscellaneous
 
