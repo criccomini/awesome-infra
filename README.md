@@ -128,6 +128,7 @@ A collection of awesome software infrastructure projects and companies.
 ## Message Brokers
 *Message brokers.*
 
+* [Pravega](https://cncf.pravega.io/) - Pravega is a distributed, tiered storage system for data streams. Pravega streams are durable, unbounded, cost-effective, and elastic: an ideal storage substrate for stream processing pipelines.
 * [WarpStream](https://warpstream.com) - WarpStream is a Kafka compatible data streaming platform built directly on top of S3.
 
 ## Stream Processing
