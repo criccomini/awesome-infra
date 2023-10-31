@@ -2,16 +2,16 @@
 
 A collection of awesome software infrastructure projects and companies.
 
-* [Awesome Infrastructure](#awesome-javascript)
-  * [AI/ML](#ai-ml)
+* [Awesome Infrastructure](#awesome-infrastructure-awesome)
+  * [AI/ML](#aiml)
   * [Change Data Capture](#change-data-capture)
   * Databases
-    * [Graph Databases](#graph)
-    * [Key-Value Stores](#key-value)
-    * [OLTP Databases](#oltp)
-    * [OLAP Databases](#olap)
-    * [Search Engines](#search)
-    * [Vector Stores](#vector)
+    * [Graph Databases](#graph-databases)
+    * [Key-Value Stores](#key-value-stores)
+    * [OLTP Databases](#oltp-databases)
+    * [OLAP Databases](#olap-databases)
+    * [Search Engines](#search-engines)
+    * [Vector Stores](#vector-stores)
     * [Data Lakes](#data-lakes)
   * [Durable Execution](#durable-execution)
   * [File Formats](#file-formats)
