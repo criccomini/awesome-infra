@@ -135,7 +135,7 @@ A collection of awesome software infrastructure projects and companies.
 *Stream processing.*
 
 * [Apache Flink](https://flink.apache.org/) - Stateful computations over bounded and unbounded data Streams.
-* [Arroyo](https://arroyo.dev) - Distributed stream processing engine, designed to make it easy for anyone to build correct, efficient, and reliable real-time data pipelines with SQL or Rust
+* [Arroyo](https://arroyo.dev) - Distributed stream processing engine, designed to make it easy for anyone to build correct, efficient, and reliable real-time data pipelines with SQL or Rust.
 * [Decodable](https://www.decodable.co/) - A managed platform for stream processing and real-time ETL, powered by Apache Flink and Debezium.
 * [Kafka Streams](https://kafka.apache.org/documentation/streams/) - A stateful stream processing library for Kafka.
 * [Responsive](https://responsive.dev) - Responsive is the platform for developers building stateful reactive applications on the modern cloud. Focused on Kafka streams.
