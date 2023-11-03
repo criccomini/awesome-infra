@@ -69,6 +69,8 @@ A collection of awesome software infrastructure projects and companies.
 ## Search Engines
 *Search engines.*
 
+* [Quickwit](https://quickwit.io/) - Quickwit is a cloud-native distributed search engine designed to execute powerful search and analytics queries directly on cloud storage.
+
 ## Vector Stores
 *Vector stores.*
 
