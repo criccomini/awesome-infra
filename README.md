@@ -13,6 +13,7 @@ A collection of awesome software infrastructure projects and companies.
     * [Search Engines](#search-engines)
     * [Vector Stores](#vector-stores)
     * [Data Lakes](#data-lakes)
+    * [Caches](#caches)
   * [Durable Execution](#durable-execution)
   * [File Formats](#file-formats)
   * [Functions as a Service](#functions-as-a-service)
@@ -81,6 +82,11 @@ A collection of awesome software infrastructure projects and companies.
 *Data lakes.*
 
 * [Bauplan](https://www.bauplanlabs.com/) - A serverless lakehouse for complex data workloads.
+
+## Caches
+*Caches.*
+
+* [ReadySet](https://github.com/readysettech/readyset) - A lightweight query cache that sits between an application and database  turning SQL reads into lightning-fast lookups.
 
 ## Durable Execution
 *Durable execution systems.*
