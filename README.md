@@ -91,6 +91,19 @@ A collection of awesome software infrastructure projects and companies.
 ## Durable Execution
 *Durable execution systems.*
 
+* [Temporal](https://github.com/temporalio/temporal) - Temporal is a microservice orchestration platform which enables developers to build scalable applications without sacrificing productivity or reliability.
+* [Azure Durable Functions](https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview) - Durable Functions is an extension of Azure Functions that lets you write stateful functions in a serverless compute environment.
+* [Conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine from Netflix.
+* [Convex](https://convex.dev) - Convex is a full cloud backend designed to replace your database, server functions, backend functionality, and the interface all the way out to your application.
+* [coroutine](https://github.com/stealthrocket/coroutine) - A durable coroutine compiler and runtime library for Go.
+* [durabletask-go]([url](https://github.com/microsoft/durabletask-go)) - The Durable Task Framework is a lightweight, embeddable engine for writing durable, fault-tolerant business logic (orchestrations) as ordinary code.
+* [Flawless](https://flawless.dev/) - Flawless is an execution engine for durable computation.
+* [Inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
+* [LittleHorse](https://github.com/littlehorse-enterprises/littlehorse) - LittleHorse is a high-performance microservice orchestration engine that allows developers to build scalable, maintainable, and observable applications.
+* [Rama](https://redplanetlabs.com/learn-rama) - Rama is a new programming platform that combines databases and stream processing with fault-tolerant computation.
+* [Resonate](https://github.com/resonatehq/resonate) - Resonate is a lightweight durable execution engine made to help you keep your promises.
+* [Restate](https://restate.dev/) - Write RPC and event handlers, and Restate makes them reliable by adding durability to invocations, promises, communication and state.
+
 ## File Formats
 *File formats.*
 
