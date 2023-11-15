@@ -100,6 +100,7 @@ A collection of awesome software infrastructure projects and companies.
 * [Flawless](https://flawless.dev/) - Flawless is an execution engine for durable computation.
 * [Infinitic](https://github.com/infiniticio/infinitic) - Infinitic is a general-purpose framework built on Pulsar to reliably orchestrate microservices, manage distributed transactions, operates data pipelines, builds user-facing automation, etc.
 * [Inngest](https://github.com/inngest/inngest) - Inngest is the developer platform for easily building reliable workflows with zero infrastructure.
+* [Laravel Workflow](https://github.com/laravel-workflow/laravel-workflow) - Durable workflow engine that allows users to track job status, orchestrate microservices and write long running persistent distributed workflows in PHP powered by Laravel Queues.
 * [LittleHorse](https://github.com/littlehorse-enterprises/littlehorse) - LittleHorse is a high-performance microservice orchestration engine that allows developers to build scalable, maintainable, and observable applications.
 * [Rama](https://redplanetlabs.com/learn-rama) - Rama is a new programming platform that combines databases and stream processing with fault-tolerant computation.
 * [Resonate](https://github.com/resonatehq/resonate) - Resonate is a lightweight durable execution engine made to help you keep your promises.
