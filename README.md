@@ -72,6 +72,10 @@ A collection of awesome software infrastructure projects and companies.
 
 * [Quickwit](https://quickwit.io/) - Quickwit is a cloud-native distributed search engine designed to execute powerful search and analytics queries directly on cloud storage.
 
+## Table Formats
+*Table formats.*
+[OneTable](https://onetable.dev) - OneTable is an open source project that provides omni-directional interoperability between lakehouse table formats such as Apache Hudi, Apache Iceberg and Delta Lake.
+
 ## Vector Stores
 *Vector stores.*
 
