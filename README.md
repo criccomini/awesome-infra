@@ -156,7 +156,7 @@ A collection of awesome software infrastructure projects and companies.
 * [gVisor](https://github.com/google/gvisor) - gVisor is an application kernel, written in Go, that implements a substantial portion of the Linux system surface.
 * [KVM](https://linux-kvm.org/) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
 * [QEMU](https://github.com/qemu/qemu) - QEMU is a generic and open source machine & userspace emulator and virtualizer.
-* [Virtualbox](https://www.virtualbox.org/browser/trunk - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
+* [Virtualbox](https://www.virtualbox.org/browser/trunk) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 # Miscellaneous
 
