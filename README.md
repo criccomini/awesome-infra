@@ -23,6 +23,7 @@ A collection of awesome software infrastructure projects and companies.
   * Streaming
     * [Message Brokers](#message-brokers)
     * [Stream Processing](#stream-processing)
+  * [Virtual Machines](#virtual-machines)
 * [Miscellaneous](#miscellaneous)
 * [Contributing](#contributing)
 * [License](#license)
@@ -148,6 +149,14 @@ A collection of awesome software infrastructure projects and companies.
 * [Kafka Streams](https://kafka.apache.org/documentation/streams/) - A stateful stream processing library for Kafka.
 * [Responsive](https://responsive.dev) - Responsive is the platform for developers building stateful reactive applications on the modern cloud. Focused on Kafka streams.
 * [RisingWave](https://risingwave.com/) - RisingWave is a distributed SQL database for stream processing. It consumes streaming data, performs incremental computations when new data comes in, and updates results dynamically. As a database system, RisingWave maintains results in its own storage so that users can access data efficiently.
+
+## Virtual Machines
+
+* [Firecracker](https://github.com/firecracker-microvm/firecracker) - Firecracker is an open source virtualization technology that is purpose-built for creating and managing secure, multi-tenant container and function-based services that provide serverless operational models.
+* [gVisor](https://github.com/google/gvisor) - gVisor is an application kernel, written in Go, that implements a substantial portion of the Linux system surface.
+* [KVM](https://linux-kvm.org/) - KVM (for Kernel-based Virtual Machine) is a full virtualization solution for Linux on x86 hardware containing virtualization extensions (Intel VT or AMD-V).
+* [QEMU](https://github.com/qemu/qemu) - QEMU is a generic and open source machine & userspace emulator and virtualizer.
+* [Virtualbox](https://www.virtualbox.org/browser/trunk - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
 # Miscellaneous
 
