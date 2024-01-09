@@ -126,6 +126,7 @@ A collection of awesome software infrastructure projects and companies.
 
 * [Calcite](https://calcite.apache.org/) - Apache Calcite is a dynamic data management framework. It contains many of the pieces that comprise a typical database management system but omits the storage primitives.
 * [Data Fusion](https://arrow.apache.org/datafusion/) - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems.
+* [optd](https://github.com/cmu-db/optd) - CMU-DB's Cascades optimizer framework for query engines. Currently, optd is integrated into Apache Arrow Datafusion as a physical optimizer.
 * [Substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
 * [Velox](https://velox-lib.io/) - A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.
 
