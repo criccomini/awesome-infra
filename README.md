@@ -125,6 +125,7 @@ A collection of awesome software infrastructure projects and companies.
 ## Query Engines
 
 * [Calcite](https://calcite.apache.org/) - Apache Calcite is a dynamic data management framework. It contains many of the pieces that comprise a typical database management system but omits the storage primitives.
+* [Daft](https://www.getdaft.io) - Daft is a distributed query engine with a Python Dataframe API. It is built in Rust and integrates tightly with the Python ML ecosystem such as with Ray and Pytorch.
 * [Data Fusion](https://arrow.apache.org/datafusion/) - DataFusion is a very fast, extensible query engine for building high-quality data-centric systems.
 * [optd](https://github.com/cmu-db/optd) - CMU-DB's Cascades optimizer framework for query engines. Currently, optd is integrated into Apache Arrow Datafusion as a physical optimizer.
 * [Substrait](https://github.com/substrait-io/substrait) - A cross platform way to express data transformation, relational algebra, standardized record expression and plans.
