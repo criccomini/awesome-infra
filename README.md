@@ -68,13 +68,13 @@ A collection of awesome software infrastructure projects and companies.
 * [Doris](https://doris.apache.org/) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 * [Druid](https://druid.apache.org/) - Apache Druid: a high performance real-time analytics database.
 * [Materialize](https://materialize.com/) - Materialize is a data warehouse purpose-built for operational workloads where an analytical data warehouse would be too slow, and a stream processor would be too complicated.
-* [Pinot](https://pinot.apache.org/) - Apache Pinot is a distributed OLAP datastore, designed to answer OLAP queries with low latency.
 * [ParadeDB](https://paradedb.com/) - ParadeDB is a modern alternative to Elasticsearch built on Postgres, designed for real-time search & analytics.
+* [Pinot](https://pinot.apache.org/) - Apache Pinot is a distributed OLAP datastore, designed to answer OLAP queries with low latency.
 
 ## Search Engines
 
-* [Quickwit](https://quickwit.io/) - Quickwit is a cloud-native distributed search engine designed to execute powerful search and analytics queries directly on cloud storage.
 * [ParadeDB](https://paradedb.com/) - ParadeDB is a modern alternative to Elasticsearch built on Postgres, designed for real-time search & analytics.
+* [Quickwit](https://quickwit.io/) - Quickwit is a cloud-native distributed search engine designed to execute powerful search and analytics queries directly on cloud storage.
 
 ## Vector Stores
 
